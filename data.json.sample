@@ -1,0 +1,8 @@
+[
+  {
+    "type": "text", "textarea", "email", "tel" ....
+    "name": "fowiej" ,
+    "required": true,
+    "class": 'class'
+  }
+]
